@@ -16,7 +16,7 @@ nao-> worlds-> nao_robocup.wbt
 5. Press arrow keys to move the robot and press 'X' to shoot the ball.
 
 <p align="center">
-  <img width="580" height="320" src="/images/Webots.jpg">
+  <img width="580" height="320" src="/Forward & Inverse Kinematics of the Aldebaran NAO Robot/Webots.jpg">
 </p>
 
 
@@ -27,6 +27,6 @@ nao-> worlds-> nao_robocup.wbt
 2. Install Choregraphe and open the software to start interacting with the NAO robot 
 
 <p align="center">
-  <img width="580" height="320" src="/images/Choregraphe.jpg">
+  <img width="580" height="320" src="/Forward & Inverse Kinematics of the Aldebaran NAO Robot/Choregraphe.jpg">
 </p>
 
